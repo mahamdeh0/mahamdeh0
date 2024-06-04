@@ -1,5 +1,3 @@
-<h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
-
 <p align="center">
   <strong>You are now on the profile of the best programmer you will know in your life😉</strong>
   <br> <br>
