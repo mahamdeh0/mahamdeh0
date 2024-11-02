@@ -1,5 +1,4 @@
 <p align="center">
-  <strong>You're looking at the profile of the best programmer you'll ever meet in your life 😉</strong>
   <br> <br>
   <a href="https://www.linkedin.com/in/abdulrahman-mahamdeh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
